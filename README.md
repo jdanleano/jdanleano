@@ -1,4 +1,10 @@
-### Hi there 👋
+# Joseph Leano
+
+## My Links
+
+### https://www.jdanmedia.com/
+
+### https://www.joephartech.com/
 
 <!--
 **jdanleano/jdanleano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
