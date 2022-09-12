@@ -1,4 +1,4 @@
-# Joseph Leano
+![Joseph Leano](joe-banner.jpg)
 
 ## My Links
 
